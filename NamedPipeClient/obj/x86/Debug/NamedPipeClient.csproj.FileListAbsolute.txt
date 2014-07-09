@@ -1,5 +1,0 @@
-c:\users\joshua.griffith\documents\visual studio 2010\Projects\NamedPipe\NamedPipeClient\bin\Debug\NamedPipeClient.exe
-c:\users\joshua.griffith\documents\visual studio 2010\Projects\NamedPipe\NamedPipeClient\bin\Debug\NamedPipeClient.pdb
-c:\users\joshua.griffith\documents\visual studio 2010\Projects\NamedPipe\NamedPipeClient\obj\x86\Debug\NamedPipeClient.exe
-c:\users\joshua.griffith\documents\visual studio 2010\Projects\NamedPipe\NamedPipeClient\obj\x86\Debug\NamedPipeClient.pdb
-C:\Users\joshua.griffith\documents\visual studio 2010\Projects\NamedPipe\NamedPipeClient\obj\x86\Debug\NamedPipeClient.csprojResolveAssemblyReference.cache
